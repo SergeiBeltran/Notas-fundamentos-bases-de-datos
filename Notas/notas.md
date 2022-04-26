@@ -615,7 +615,7 @@ Está puede ser la sentencia ¡más peligrosa! (????), sobre todo cuando somos p
 
 Pasos para borrar una tabla
 
-![Uploading image.png…]()
+![Uploading image.png…](src/image.png)
 
 ![drop_table](src/drop_table.png)
 
