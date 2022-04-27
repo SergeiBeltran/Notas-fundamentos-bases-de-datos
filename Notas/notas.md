@@ -615,8 +615,6 @@ Está puede ser la sentencia ¡más peligrosa! (????), sobre todo cuando somos p
 
 Pasos para borrar una tabla
 
-![Uploading image.png…](src/image.png)
-
 ![drop_table](src/drop_table.png)
 
 ![drop_table_1](src/drop_table_1.png)
@@ -697,6 +695,8 @@ SELECT first_name, last_name FROM people;
 ```
 
 ![select_command_1.png](src/select_command_1.png)
+
+![SQL_command](src/SQL-Commands.png)
 
 ### Clase 24 Que tan standard es SQL
 
